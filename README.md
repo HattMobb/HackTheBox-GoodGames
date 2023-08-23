@@ -54,15 +54,44 @@ Just to confirm, I ran the `id` command with a successful response:
 ![image](https://github.com/HattMobb/HackTheBox-GoodGames/assets/134090089/456c39e8-8519-4023-8075-83fc85565c2e)
 
 
+Backend shell:
+
+![image](https://github.com/HattMobb/HackTheBox-GoodGames/assets/134090089/f5b8ed51-656f-47a8-b4fe-1ebc8e11cc49)
+
+
 Judging by contents of the folder, Docker contatiners being used:
 
 ![image](https://github.com/HattMobb/HackTheBox-GoodGames/assets/134090089/2ad0214c-631a-4026-9033-39f1ab58ad8f)
 
+Ping sweep of local network:
+
+![image](https://github.com/HattMobb/HackTheBox-GoodGames/assets/134090089/1af025ea-9ea8-4c47-9a35-cea8ba857069)
+
+User enumeration:
+
+![image](https://github.com/HattMobb/HackTheBox-GoodGames/assets/134090089/12f66698-847e-4d4f-837b-9ed497a11871)
+
+Password reuse allows SSH log in:
+
+![image](https://github.com/HattMobb/HackTheBox-GoodGames/assets/134090089/58d8c7fe-57dc-4cd9-aac9-fe7c762d1cb8)
+
+Copying bash binary:
+
+![image](https://github.com/HattMobb/HackTheBox-GoodGames/assets/134090089/d5252d2a-c750-4c53-9f3e-82ac3b1d687e)
 
 
-Backend shell:
+Change bash permissions:
 
-![image](https://github.com/HattMobb/HackTheBox-GoodGames/assets/134090089/f5b8ed51-656f-47a8-b4fe-1ebc8e11cc49)
+![image](https://github.com/HattMobb/HackTheBox-GoodGames/assets/134090089/b8d24e4e-f086-45ab-b0a8-b26bb2d9758e)
+
+
+Final root:
+
+![image](https://github.com/HattMobb/HackTheBox-GoodGames/assets/134090089/74899a20-cb42-4307-b3c2-42d623f042c2)
+
+
+
+
 
 
 
