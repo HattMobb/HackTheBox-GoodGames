@@ -1,5 +1,5 @@
 # HackTheBox-GoodGames
-A walkthrough/ write-up of the "GoodGames" box following the CREST pentesting pathway, featuring SQL injection, SSTI attacks and privesc via poor permissions management.
+A walkthrough/ write-up of the "GoodGames" box following the CREST pentesting pathway, featuring SQL injection, SSTI attacks and privesc via poor permissions management. (work in progress)
 
 ## Enumeration
 
